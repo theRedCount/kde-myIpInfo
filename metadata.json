@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "rosso@protonmail.com",
+                "Name": "theRedCount"
+            }
+        ],
+        "Category": "Ip Information",
+        "Description": "A widget displaying Organization Ip on the panel/taskbar",
+        "Id": "org.github.theRedCount.kde-myIpInfo",
+        "Name": "myIpInfo",
+        "Version": "1",
+        "Icon": "network-card"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
