@@ -10,7 +10,7 @@ Item {
 
     Timer {
         id: updateTimer
-        interval: 60000
+        interval: 30000
         repeat: true
         running: true
         onTriggered: fetchIPAddress()
